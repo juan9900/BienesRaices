@@ -593,3 +593,11 @@ select {
     width: 30%;
   }
 }
+
+
+marquee{
+  color: #fff;
+  height: 32px;
+  font-size: 30px;
+  background-color: #000;
+}
